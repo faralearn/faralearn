@@ -39,8 +39,4 @@ I'm **Mohammad Beigi**, a web developer and JavaScript specialist. I'm the found
 If you like my work, consider buying me a coffee:
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-yellow?style=flat-square)](https://www.buymeacoffee.com/YourProfile)
 
-## Popular Repositories:
-- [Git Tutorial](https://github.com/faralearn/git-tutorial)
-- [Shop](https://github.com/faralearn/shop)
-- [My Project Learning](https://github.com/faralearn/my-project-learning)
-- [CSS Grid Gallery](https://github.com/faralearn/css-grid-gallery)
+
